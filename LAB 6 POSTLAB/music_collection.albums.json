@@ -1,0 +1,2776 @@
+[{
+  "_id": {
+    "$oid": "663a42c67717724229edd7a5"
+  },
+  "AlbumId": 1,
+  "Title": "For Those About To Rock We Salute You",
+  "ArtistId": 1
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7a6"
+  },
+  "AlbumId": 2,
+  "Title": "Balls to the Wall",
+  "ArtistId": 2
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7a7"
+  },
+  "AlbumId": 3,
+  "Title": "Restless and Wild",
+  "ArtistId": 2
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7a8"
+  },
+  "AlbumId": 4,
+  "Title": "Let There Be Rock",
+  "ArtistId": 1
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7a9"
+  },
+  "AlbumId": 5,
+  "Title": "Big Ones",
+  "ArtistId": 3
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7aa"
+  },
+  "AlbumId": 6,
+  "Title": "Jagged Little Pill",
+  "ArtistId": 4
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7ab"
+  },
+  "AlbumId": 7,
+  "Title": "Facelift",
+  "ArtistId": 5
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7ac"
+  },
+  "AlbumId": 8,
+  "Title": "Warner 25 Anos",
+  "ArtistId": 6
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7ad"
+  },
+  "AlbumId": 9,
+  "Title": "Plays Metallica By Four Cellos",
+  "ArtistId": 7
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7ae"
+  },
+  "AlbumId": 10,
+  "Title": "Audioslave",
+  "ArtistId": 8
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7af"
+  },
+  "AlbumId": 11,
+  "Title": "Out Of Exile",
+  "ArtistId": 8
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7b0"
+  },
+  "AlbumId": 12,
+  "Title": "BackBeat Soundtrack",
+  "ArtistId": 9
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7b1"
+  },
+  "AlbumId": 13,
+  "Title": "The Best Of Billy Cobham",
+  "ArtistId": 10
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7b2"
+  },
+  "AlbumId": 14,
+  "Title": "Alcohol Fueled Brewtality Live! [Disc 1]",
+  "ArtistId": 11
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7b3"
+  },
+  "AlbumId": 15,
+  "Title": "Alcohol Fueled Brewtality Live! [Disc 2]",
+  "ArtistId": 11
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7b4"
+  },
+  "AlbumId": 16,
+  "Title": "Black Sabbath",
+  "ArtistId": 12
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7b5"
+  },
+  "AlbumId": 17,
+  "Title": "Black Sabbath Vol. 4 (Remaster)",
+  "ArtistId": 12
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7b6"
+  },
+  "AlbumId": 18,
+  "Title": "Body Count",
+  "ArtistId": 13
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7b7"
+  },
+  "AlbumId": 19,
+  "Title": "Chemical Wedding",
+  "ArtistId": 14
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7b8"
+  },
+  "AlbumId": 20,
+  "Title": "The Best Of Buddy Guy - The Millenium Collection",
+  "ArtistId": 15
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7b9"
+  },
+  "AlbumId": 21,
+  "Title": "Prenda Minha",
+  "ArtistId": 16
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7ba"
+  },
+  "AlbumId": 22,
+  "Title": "Sozinho Remix Ao Vivo",
+  "ArtistId": 16
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7bb"
+  },
+  "AlbumId": 23,
+  "Title": "Minha Historia",
+  "ArtistId": 17
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7bc"
+  },
+  "AlbumId": 24,
+  "Title": "Afrociberdelia",
+  "ArtistId": 18
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7bd"
+  },
+  "AlbumId": 25,
+  "Title": "Da Lama Ao Caos",
+  "ArtistId": 18
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7be"
+  },
+  "AlbumId": 26,
+  "Title": "Acústico MTV [Live]",
+  "ArtistId": 19
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7bf"
+  },
+  "AlbumId": 27,
+  "Title": "Cidade Negra - Hits",
+  "ArtistId": 19
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7c0"
+  },
+  "AlbumId": 28,
+  "Title": "Na Pista",
+  "ArtistId": 20
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7c1"
+  },
+  "AlbumId": 29,
+  "Title": "Axé Bahia 2001",
+  "ArtistId": 21
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7c2"
+  },
+  "AlbumId": 30,
+  "Title": "BBC Sessions [Disc 1] [Live]",
+  "ArtistId": 22
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7c3"
+  },
+  "AlbumId": 31,
+  "Title": "Bongo Fury",
+  "ArtistId": 23
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7c4"
+  },
+  "AlbumId": 32,
+  "Title": "Carnaval 2001",
+  "ArtistId": 21
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7c5"
+  },
+  "AlbumId": 33,
+  "Title": "Chill: Brazil (Disc 1)",
+  "ArtistId": 24
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7c6"
+  },
+  "AlbumId": 34,
+  "Title": "Chill: Brazil (Disc 2)",
+  "ArtistId": 6
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7c7"
+  },
+  "AlbumId": 35,
+  "Title": "Garage Inc. (Disc 1)",
+  "ArtistId": 50
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7c8"
+  },
+  "AlbumId": 36,
+  "Title": "Greatest Hits II",
+  "ArtistId": 51
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7c9"
+  },
+  "AlbumId": 37,
+  "Title": "Greatest Kiss",
+  "ArtistId": 52
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7ca"
+  },
+  "AlbumId": 38,
+  "Title": "Heart of the Night",
+  "ArtistId": 53
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7cb"
+  },
+  "AlbumId": 39,
+  "Title": "International Superhits",
+  "ArtistId": 54
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7cc"
+  },
+  "AlbumId": 40,
+  "Title": "Into The Light",
+  "ArtistId": 55
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7cd"
+  },
+  "AlbumId": 41,
+  "Title": "Meus Momentos",
+  "ArtistId": 56
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7ce"
+  },
+  "AlbumId": 42,
+  "Title": "Minha História",
+  "ArtistId": 57
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7cf"
+  },
+  "AlbumId": 43,
+  "Title": "MK III The Final Concerts [Disc 1]",
+  "ArtistId": 58
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7d0"
+  },
+  "AlbumId": 44,
+  "Title": "Physical Graffiti [Disc 1]",
+  "ArtistId": 22
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7d1"
+  },
+  "AlbumId": 45,
+  "Title": "Sambas De Enredo 2001",
+  "ArtistId": 21
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7d2"
+  },
+  "AlbumId": 46,
+  "Title": "Supernatural",
+  "ArtistId": 59
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7d3"
+  },
+  "AlbumId": 47,
+  "Title": "The Best of Ed Motta",
+  "ArtistId": 37
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7d4"
+  },
+  "AlbumId": 48,
+  "Title": "The Essential Miles Davis [Disc 1]",
+  "ArtistId": 68
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7d5"
+  },
+  "AlbumId": 49,
+  "Title": "The Essential Miles Davis [Disc 2]",
+  "ArtistId": 68
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7d6"
+  },
+  "AlbumId": 50,
+  "Title": "The Final Concerts (Disc 2)",
+  "ArtistId": 58
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7d7"
+  },
+  "AlbumId": 51,
+  "Title": "Up An' Atom",
+  "ArtistId": 69
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7d8"
+  },
+  "AlbumId": 52,
+  "Title": "Vinícius De Moraes - Sem Limite",
+  "ArtistId": 70
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7d9"
+  },
+  "AlbumId": 53,
+  "Title": "Vozes do MPB",
+  "ArtistId": 21
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7da"
+  },
+  "AlbumId": 54,
+  "Title": "Chronicle, Vol. 1",
+  "ArtistId": 76
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7db"
+  },
+  "AlbumId": 55,
+  "Title": "Chronicle, Vol. 2",
+  "ArtistId": 76
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7dc"
+  },
+  "AlbumId": 56,
+  "Title": "Cássia Eller - Coleção Sem Limite [Disc 2]",
+  "ArtistId": 77
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7dd"
+  },
+  "AlbumId": 57,
+  "Title": "Cássia Eller - Sem Limite [Disc 1]",
+  "ArtistId": 77
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7de"
+  },
+  "AlbumId": 58,
+  "Title": "Come Taste The Band",
+  "ArtistId": 58
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7df"
+  },
+  "AlbumId": 59,
+  "Title": "Deep Purple In Rock",
+  "ArtistId": 58
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7e0"
+  },
+  "AlbumId": 60,
+  "Title": "Fireball",
+  "ArtistId": 58
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7e1"
+  },
+  "AlbumId": 61,
+  "Title": "Knocking at Your Back Door: The Best Of Deep Purple in the 80's",
+  "ArtistId": 58
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7e2"
+  },
+  "AlbumId": 62,
+  "Title": "Machine Head",
+  "ArtistId": 58
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7e3"
+  },
+  "AlbumId": 63,
+  "Title": "Purpendicular",
+  "ArtistId": 58
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7e4"
+  },
+  "AlbumId": 64,
+  "Title": "Slaves And Masters",
+  "ArtistId": 58
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7e5"
+  },
+  "AlbumId": 65,
+  "Title": "Stormbringer",
+  "ArtistId": 58
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7e6"
+  },
+  "AlbumId": 66,
+  "Title": "The Battle Rages On",
+  "ArtistId": 58
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7e7"
+  },
+  "AlbumId": 67,
+  "Title": "Vault: Def Leppard's Greatest Hits",
+  "ArtistId": 78
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7e8"
+  },
+  "AlbumId": 68,
+  "Title": "Outbreak",
+  "ArtistId": 79
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7e9"
+  },
+  "AlbumId": 69,
+  "Title": "Djavan Ao Vivo - Vol. 02",
+  "ArtistId": 80
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7ea"
+  },
+  "AlbumId": 70,
+  "Title": "Djavan Ao Vivo - Vol. 1",
+  "ArtistId": 80
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7eb"
+  },
+  "AlbumId": 71,
+  "Title": "Elis Regina-Minha História",
+  "ArtistId": 41
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7ec"
+  },
+  "AlbumId": 72,
+  "Title": "The Cream Of Clapton",
+  "ArtistId": 81
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7ed"
+  },
+  "AlbumId": 73,
+  "Title": "Unplugged",
+  "ArtistId": 81
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7ee"
+  },
+  "AlbumId": 74,
+  "Title": "Album Of The Year",
+  "ArtistId": 82
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7ef"
+  },
+  "AlbumId": 75,
+  "Title": "Angel Dust",
+  "ArtistId": 82
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7f0"
+  },
+  "AlbumId": 76,
+  "Title": "King For A Day Fool For A Lifetime",
+  "ArtistId": 82
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7f1"
+  },
+  "AlbumId": 77,
+  "Title": "The Real Thing",
+  "ArtistId": 82
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7f2"
+  },
+  "AlbumId": 78,
+  "Title": "Deixa Entrar",
+  "ArtistId": 83
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7f3"
+  },
+  "AlbumId": 79,
+  "Title": "In Your Honor [Disc 1]",
+  "ArtistId": 84
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7f4"
+  },
+  "AlbumId": 80,
+  "Title": "In Your Honor [Disc 2]",
+  "ArtistId": 84
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7f5"
+  },
+  "AlbumId": 81,
+  "Title": "One By One",
+  "ArtistId": 84
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7f6"
+  },
+  "AlbumId": 82,
+  "Title": "The Colour And The Shape",
+  "ArtistId": 84
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7f7"
+  },
+  "AlbumId": 83,
+  "Title": "My Way: The Best Of Frank Sinatra [Disc 1]",
+  "ArtistId": 85
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7f8"
+  },
+  "AlbumId": 84,
+  "Title": "Roda De Funk",
+  "ArtistId": 86
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7f9"
+  },
+  "AlbumId": 85,
+  "Title": "As Canções de Eu Tu Eles",
+  "ArtistId": 27
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7fa"
+  },
+  "AlbumId": 86,
+  "Title": "Quanta Gente Veio Ver (Live)",
+  "ArtistId": 27
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7fb"
+  },
+  "AlbumId": 87,
+  "Title": "Quanta Gente Veio ver--Bônus De Carnaval",
+  "ArtistId": 27
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7fc"
+  },
+  "AlbumId": 88,
+  "Title": "Faceless",
+  "ArtistId": 87
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7fd"
+  },
+  "AlbumId": 89,
+  "Title": "American Idiot",
+  "ArtistId": 54
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7fe"
+  },
+  "AlbumId": 90,
+  "Title": "Appetite for Destruction",
+  "ArtistId": 88
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd7ff"
+  },
+  "AlbumId": 91,
+  "Title": "Use Your Illusion I",
+  "ArtistId": 88
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd800"
+  },
+  "AlbumId": 92,
+  "Title": "Use Your Illusion II",
+  "ArtistId": 88
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd801"
+  },
+  "AlbumId": 93,
+  "Title": "Blue Moods",
+  "ArtistId": 89
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd802"
+  },
+  "AlbumId": 94,
+  "Title": "A Matter of Life and Death",
+  "ArtistId": 90
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd803"
+  },
+  "AlbumId": 95,
+  "Title": "A Real Dead One",
+  "ArtistId": 90
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd804"
+  },
+  "AlbumId": 96,
+  "Title": "A Real Live One",
+  "ArtistId": 90
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd805"
+  },
+  "AlbumId": 97,
+  "Title": "Brave New World",
+  "ArtistId": 90
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd806"
+  },
+  "AlbumId": 98,
+  "Title": "Dance Of Death",
+  "ArtistId": 90
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd807"
+  },
+  "AlbumId": 99,
+  "Title": "Fear Of The Dark",
+  "ArtistId": 90
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd808"
+  },
+  "AlbumId": 100,
+  "Title": "Iron Maiden",
+  "ArtistId": 90
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd809"
+  },
+  "AlbumId": 101,
+  "Title": "Killers",
+  "ArtistId": 90
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd80a"
+  },
+  "AlbumId": 102,
+  "Title": "Live After Death",
+  "ArtistId": 90
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd80b"
+  },
+  "AlbumId": 103,
+  "Title": "Live At Donington 1992 (Disc 1)",
+  "ArtistId": 90
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd80c"
+  },
+  "AlbumId": 104,
+  "Title": "Live At Donington 1992 (Disc 2)",
+  "ArtistId": 90
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd80d"
+  },
+  "AlbumId": 105,
+  "Title": "No Prayer For The Dying",
+  "ArtistId": 90
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd80e"
+  },
+  "AlbumId": 106,
+  "Title": "Piece Of Mind",
+  "ArtistId": 90
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd80f"
+  },
+  "AlbumId": 107,
+  "Title": "Powerslave",
+  "ArtistId": 90
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd810"
+  },
+  "AlbumId": 108,
+  "Title": "Rock In Rio [CD1]",
+  "ArtistId": 90
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd811"
+  },
+  "AlbumId": 109,
+  "Title": "Rock In Rio [CD2]",
+  "ArtistId": 90
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd812"
+  },
+  "AlbumId": 110,
+  "Title": "Seventh Son of a Seventh Son",
+  "ArtistId": 90
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd813"
+  },
+  "AlbumId": 111,
+  "Title": "Somewhere in Time",
+  "ArtistId": 90
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd814"
+  },
+  "AlbumId": 112,
+  "Title": "The Number of The Beast",
+  "ArtistId": 90
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd815"
+  },
+  "AlbumId": 113,
+  "Title": "The X Factor",
+  "ArtistId": 90
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd816"
+  },
+  "AlbumId": 114,
+  "Title": "Virtual XI",
+  "ArtistId": 90
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd817"
+  },
+  "AlbumId": 115,
+  "Title": "Sex Machine",
+  "ArtistId": 91
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd818"
+  },
+  "AlbumId": 116,
+  "Title": "Emergency On Planet Earth",
+  "ArtistId": 92
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd819"
+  },
+  "AlbumId": 117,
+  "Title": "Synkronized",
+  "ArtistId": 92
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd81a"
+  },
+  "AlbumId": 118,
+  "Title": "The Return Of The Space Cowboy",
+  "ArtistId": 92
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd81b"
+  },
+  "AlbumId": 119,
+  "Title": "Get Born",
+  "ArtistId": 93
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd81c"
+  },
+  "AlbumId": 120,
+  "Title": "Are You Experienced?",
+  "ArtistId": 94
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd81d"
+  },
+  "AlbumId": 121,
+  "Title": "Surfing with the Alien (Remastered)",
+  "ArtistId": 95
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd81e"
+  },
+  "AlbumId": 122,
+  "Title": "Jorge Ben Jor 25 Anos",
+  "ArtistId": 46
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd81f"
+  },
+  "AlbumId": 123,
+  "Title": "Jota Quest-1995",
+  "ArtistId": 96
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd820"
+  },
+  "AlbumId": 124,
+  "Title": "Cafezinho",
+  "ArtistId": 97
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd821"
+  },
+  "AlbumId": 125,
+  "Title": "Living After Midnight",
+  "ArtistId": 98
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd822"
+  },
+  "AlbumId": 126,
+  "Title": "Unplugged [Live]",
+  "ArtistId": 52
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd823"
+  },
+  "AlbumId": 127,
+  "Title": "BBC Sessions [Disc 2] [Live]",
+  "ArtistId": 22
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd824"
+  },
+  "AlbumId": 128,
+  "Title": "Coda",
+  "ArtistId": 22
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd825"
+  },
+  "AlbumId": 129,
+  "Title": "Houses Of The Holy",
+  "ArtistId": 22
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd826"
+  },
+  "AlbumId": 130,
+  "Title": "In Through The Out Door",
+  "ArtistId": 22
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd827"
+  },
+  "AlbumId": 131,
+  "Title": "IV",
+  "ArtistId": 22
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd828"
+  },
+  "AlbumId": 132,
+  "Title": "Led Zeppelin I",
+  "ArtistId": 22
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd829"
+  },
+  "AlbumId": 133,
+  "Title": "Led Zeppelin II",
+  "ArtistId": 22
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd82a"
+  },
+  "AlbumId": 134,
+  "Title": "Led Zeppelin III",
+  "ArtistId": 22
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd82b"
+  },
+  "AlbumId": 135,
+  "Title": "Physical Graffiti [Disc 2]",
+  "ArtistId": 22
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd82c"
+  },
+  "AlbumId": 136,
+  "Title": "Presence",
+  "ArtistId": 22
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd82d"
+  },
+  "AlbumId": 137,
+  "Title": "The Song Remains The Same (Disc 1)",
+  "ArtistId": 22
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd82e"
+  },
+  "AlbumId": 138,
+  "Title": "The Song Remains The Same (Disc 2)",
+  "ArtistId": 22
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd82f"
+  },
+  "AlbumId": 139,
+  "Title": "A TempestadeTempestade Ou O Livro Dos Dias",
+  "ArtistId": 99
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd830"
+  },
+  "AlbumId": 140,
+  "Title": "Mais Do Mesmo",
+  "ArtistId": 99
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd831"
+  },
+  "AlbumId": 141,
+  "Title": "Greatest Hits",
+  "ArtistId": 100
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd832"
+  },
+  "AlbumId": 142,
+  "Title": "Lulu Santos - RCA 100 Anos De Música - Álbum 01",
+  "ArtistId": 101
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd833"
+  },
+  "AlbumId": 143,
+  "Title": "Lulu Santos - RCA 100 Anos De Música - Álbum 02",
+  "ArtistId": 101
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd834"
+  },
+  "AlbumId": 144,
+  "Title": "Misplaced Childhood",
+  "ArtistId": 102
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd835"
+  },
+  "AlbumId": 145,
+  "Title": "Barulhinho Bom",
+  "ArtistId": 103
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd836"
+  },
+  "AlbumId": 146,
+  "Title": "Seek And Shall Find: More Of The Best (1963-1981)",
+  "ArtistId": 104
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd837"
+  },
+  "AlbumId": 147,
+  "Title": "The Best Of Men At Work",
+  "ArtistId": 105
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd838"
+  },
+  "AlbumId": 148,
+  "Title": "Black Album",
+  "ArtistId": 50
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd839"
+  },
+  "AlbumId": 149,
+  "Title": "Garage Inc. (Disc 2)",
+  "ArtistId": 50
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd83a"
+  },
+  "AlbumId": 150,
+  "Title": "Kill 'Em All",
+  "ArtistId": 50
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd83b"
+  },
+  "AlbumId": 151,
+  "Title": "Load",
+  "ArtistId": 50
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd83c"
+  },
+  "AlbumId": 152,
+  "Title": "Master Of Puppets",
+  "ArtistId": 50
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd83d"
+  },
+  "AlbumId": 153,
+  "Title": "ReLoad",
+  "ArtistId": 50
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd83e"
+  },
+  "AlbumId": 154,
+  "Title": "Ride The Lightning",
+  "ArtistId": 50
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd83f"
+  },
+  "AlbumId": 155,
+  "Title": "St. Anger",
+  "ArtistId": 50
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd840"
+  },
+  "AlbumId": 156,
+  "Title": "...And Justice For All",
+  "ArtistId": 50
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd841"
+  },
+  "AlbumId": 157,
+  "Title": "Miles Ahead",
+  "ArtistId": 68
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd842"
+  },
+  "AlbumId": 158,
+  "Title": "Milton Nascimento Ao Vivo",
+  "ArtistId": 42
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd843"
+  },
+  "AlbumId": 159,
+  "Title": "Minas",
+  "ArtistId": 42
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd844"
+  },
+  "AlbumId": 160,
+  "Title": "Ace Of Spades",
+  "ArtistId": 106
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd845"
+  },
+  "AlbumId": 161,
+  "Title": "Demorou...",
+  "ArtistId": 108
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd846"
+  },
+  "AlbumId": 162,
+  "Title": "Motley Crue Greatest Hits",
+  "ArtistId": 109
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd847"
+  },
+  "AlbumId": 163,
+  "Title": "From The Muddy Banks Of The Wishkah [Live]",
+  "ArtistId": 110
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd848"
+  },
+  "AlbumId": 164,
+  "Title": "Nevermind",
+  "ArtistId": 110
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd849"
+  },
+  "AlbumId": 165,
+  "Title": "Compositores",
+  "ArtistId": 111
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd84a"
+  },
+  "AlbumId": 166,
+  "Title": "Olodum",
+  "ArtistId": 112
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd84b"
+  },
+  "AlbumId": 167,
+  "Title": "Acústico MTV",
+  "ArtistId": 113
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd84c"
+  },
+  "AlbumId": 168,
+  "Title": "Arquivo II",
+  "ArtistId": 113
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd84d"
+  },
+  "AlbumId": 169,
+  "Title": "Arquivo Os Paralamas Do Sucesso",
+  "ArtistId": 113
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd84e"
+  },
+  "AlbumId": 170,
+  "Title": "Bark at the Moon (Remastered)",
+  "ArtistId": 114
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd84f"
+  },
+  "AlbumId": 171,
+  "Title": "Blizzard of Ozz",
+  "ArtistId": 114
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd850"
+  },
+  "AlbumId": 172,
+  "Title": "Diary of a Madman (Remastered)",
+  "ArtistId": 114
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd851"
+  },
+  "AlbumId": 173,
+  "Title": "No More Tears (Remastered)",
+  "ArtistId": 114
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd852"
+  },
+  "AlbumId": 174,
+  "Title": "Tribute",
+  "ArtistId": 114
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd853"
+  },
+  "AlbumId": 175,
+  "Title": "Walking Into Clarksdale",
+  "ArtistId": 115
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd854"
+  },
+  "AlbumId": 176,
+  "Title": "Original Soundtracks 1",
+  "ArtistId": 116
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd855"
+  },
+  "AlbumId": 177,
+  "Title": "The Beast Live",
+  "ArtistId": 117
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd856"
+  },
+  "AlbumId": 178,
+  "Title": "Live On Two Legs [Live]",
+  "ArtistId": 118
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd857"
+  },
+  "AlbumId": 179,
+  "Title": "Pearl Jam",
+  "ArtistId": 118
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd858"
+  },
+  "AlbumId": 180,
+  "Title": "Riot Act",
+  "ArtistId": 118
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd859"
+  },
+  "AlbumId": 181,
+  "Title": "Ten",
+  "ArtistId": 118
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd85a"
+  },
+  "AlbumId": 182,
+  "Title": "Vs.",
+  "ArtistId": 118
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd85b"
+  },
+  "AlbumId": 183,
+  "Title": "Dark Side Of The Moon",
+  "ArtistId": 120
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd85c"
+  },
+  "AlbumId": 184,
+  "Title": "Os Cães Ladram Mas A Caravana Não Pára",
+  "ArtistId": 121
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd85d"
+  },
+  "AlbumId": 185,
+  "Title": "Greatest Hits I",
+  "ArtistId": 51
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd85e"
+  },
+  "AlbumId": 186,
+  "Title": "News Of The World",
+  "ArtistId": 51
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd85f"
+  },
+  "AlbumId": 187,
+  "Title": "Out Of Time",
+  "ArtistId": 122
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd860"
+  },
+  "AlbumId": 188,
+  "Title": "Green",
+  "ArtistId": 124
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd861"
+  },
+  "AlbumId": 189,
+  "Title": "New Adventures In Hi-Fi",
+  "ArtistId": 124
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd862"
+  },
+  "AlbumId": 190,
+  "Title": "The Best Of R.E.M.: The IRS Years",
+  "ArtistId": 124
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd863"
+  },
+  "AlbumId": 191,
+  "Title": "Cesta Básica",
+  "ArtistId": 125
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd864"
+  },
+  "AlbumId": 192,
+  "Title": "Raul Seixas",
+  "ArtistId": 126
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd865"
+  },
+  "AlbumId": 193,
+  "Title": "Blood Sugar Sex Magik",
+  "ArtistId": 127
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd866"
+  },
+  "AlbumId": 194,
+  "Title": "By The Way",
+  "ArtistId": 127
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd867"
+  },
+  "AlbumId": 195,
+  "Title": "Californication",
+  "ArtistId": 127
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd868"
+  },
+  "AlbumId": 196,
+  "Title": "Retrospective I (1974-1980)",
+  "ArtistId": 128
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd869"
+  },
+  "AlbumId": 197,
+  "Title": "Santana - As Years Go By",
+  "ArtistId": 59
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd86a"
+  },
+  "AlbumId": 198,
+  "Title": "Santana Live",
+  "ArtistId": 59
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd86b"
+  },
+  "AlbumId": 199,
+  "Title": "Maquinarama",
+  "ArtistId": 130
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd86c"
+  },
+  "AlbumId": 200,
+  "Title": "O Samba Poconé",
+  "ArtistId": 130
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd86d"
+  },
+  "AlbumId": 201,
+  "Title": "Judas 0: B-Sides and Rarities",
+  "ArtistId": 131
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd86e"
+  },
+  "AlbumId": 202,
+  "Title": "Rotten Apples: Greatest Hits",
+  "ArtistId": 131
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd86f"
+  },
+  "AlbumId": 203,
+  "Title": "A-Sides",
+  "ArtistId": 132
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd870"
+  },
+  "AlbumId": 204,
+  "Title": "Morning Dance",
+  "ArtistId": 53
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd871"
+  },
+  "AlbumId": 205,
+  "Title": "In Step",
+  "ArtistId": 133
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd872"
+  },
+  "AlbumId": 206,
+  "Title": "Core",
+  "ArtistId": 134
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd873"
+  },
+  "AlbumId": 207,
+  "Title": "Mezmerize",
+  "ArtistId": 135
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd874"
+  },
+  "AlbumId": 208,
+  "Title": "[1997] Black Light Syndrome",
+  "ArtistId": 136
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd875"
+  },
+  "AlbumId": 209,
+  "Title": "Live [Disc 1]",
+  "ArtistId": 137
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd876"
+  },
+  "AlbumId": 210,
+  "Title": "Live [Disc 2]",
+  "ArtistId": 137
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd877"
+  },
+  "AlbumId": 211,
+  "Title": "The Singles",
+  "ArtistId": 138
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd878"
+  },
+  "AlbumId": 212,
+  "Title": "Beyond Good And Evil",
+  "ArtistId": 139
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd879"
+  },
+  "AlbumId": 213,
+  "Title": "Pure Cult: The Best Of The Cult (For Rockers, Ravers, Lovers & Sinners) [UK]",
+  "ArtistId": 139
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd87a"
+  },
+  "AlbumId": 214,
+  "Title": "The Doors",
+  "ArtistId": 140
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd87b"
+  },
+  "AlbumId": 215,
+  "Title": "The Police Greatest Hits",
+  "ArtistId": 141
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd87c"
+  },
+  "AlbumId": 216,
+  "Title": "Hot Rocks, 1964-1971 (Disc 1)",
+  "ArtistId": 142
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd87d"
+  },
+  "AlbumId": 217,
+  "Title": "No Security",
+  "ArtistId": 142
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd87e"
+  },
+  "AlbumId": 218,
+  "Title": "Voodoo Lounge",
+  "ArtistId": 142
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd87f"
+  },
+  "AlbumId": 219,
+  "Title": "Tangents",
+  "ArtistId": 143
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd880"
+  },
+  "AlbumId": 220,
+  "Title": "Transmission",
+  "ArtistId": 143
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd881"
+  },
+  "AlbumId": 221,
+  "Title": "My Generation - The Very Best Of The Who",
+  "ArtistId": 144
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd882"
+  },
+  "AlbumId": 222,
+  "Title": "Serie Sem Limite (Disc 1)",
+  "ArtistId": 145
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd883"
+  },
+  "AlbumId": 223,
+  "Title": "Serie Sem Limite (Disc 2)",
+  "ArtistId": 145
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd884"
+  },
+  "AlbumId": 224,
+  "Title": "Acústico",
+  "ArtistId": 146
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd885"
+  },
+  "AlbumId": 225,
+  "Title": "Volume Dois",
+  "ArtistId": 146
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd886"
+  },
+  "AlbumId": 226,
+  "Title": "Battlestar Galactica: The Story So Far",
+  "ArtistId": 147
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd887"
+  },
+  "AlbumId": 227,
+  "Title": "Battlestar Galactica, Season 3",
+  "ArtistId": 147
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd888"
+  },
+  "AlbumId": 228,
+  "Title": "Heroes, Season 1",
+  "ArtistId": 148
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd889"
+  },
+  "AlbumId": 229,
+  "Title": "Lost, Season 3",
+  "ArtistId": 149
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd88a"
+  },
+  "AlbumId": 230,
+  "Title": "Lost, Season 1",
+  "ArtistId": 149
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd88b"
+  },
+  "AlbumId": 231,
+  "Title": "Lost, Season 2",
+  "ArtistId": 149
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd88c"
+  },
+  "AlbumId": 232,
+  "Title": "Achtung Baby",
+  "ArtistId": 150
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd88d"
+  },
+  "AlbumId": 233,
+  "Title": "All That You Can't Leave Behind",
+  "ArtistId": 150
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd88e"
+  },
+  "AlbumId": 234,
+  "Title": "B-Sides 1980-1990",
+  "ArtistId": 150
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd88f"
+  },
+  "AlbumId": 235,
+  "Title": "How To Dismantle An Atomic Bomb",
+  "ArtistId": 150
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd890"
+  },
+  "AlbumId": 236,
+  "Title": "Pop",
+  "ArtistId": 150
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd891"
+  },
+  "AlbumId": 237,
+  "Title": "Rattle And Hum",
+  "ArtistId": 150
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd892"
+  },
+  "AlbumId": 238,
+  "Title": "The Best Of 1980-1990",
+  "ArtistId": 150
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd893"
+  },
+  "AlbumId": 239,
+  "Title": "War",
+  "ArtistId": 150
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd894"
+  },
+  "AlbumId": 240,
+  "Title": "Zooropa",
+  "ArtistId": 150
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd895"
+  },
+  "AlbumId": 241,
+  "Title": "UB40 The Best Of - Volume Two [UK]",
+  "ArtistId": 151
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd896"
+  },
+  "AlbumId": 242,
+  "Title": "Diver Down",
+  "ArtistId": 152
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd897"
+  },
+  "AlbumId": 243,
+  "Title": "The Best Of Van Halen, Vol. I",
+  "ArtistId": 152
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd898"
+  },
+  "AlbumId": 244,
+  "Title": "Van Halen",
+  "ArtistId": 152
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd899"
+  },
+  "AlbumId": 245,
+  "Title": "Van Halen III",
+  "ArtistId": 152
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd89a"
+  },
+  "AlbumId": 246,
+  "Title": "Contraband",
+  "ArtistId": 153
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd89b"
+  },
+  "AlbumId": 247,
+  "Title": "Vinicius De Moraes",
+  "ArtistId": 72
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd89c"
+  },
+  "AlbumId": 248,
+  "Title": "Ao Vivo [IMPORT]",
+  "ArtistId": 155
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd89d"
+  },
+  "AlbumId": 249,
+  "Title": "The Office, Season 1",
+  "ArtistId": 156
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd89e"
+  },
+  "AlbumId": 250,
+  "Title": "The Office, Season 2",
+  "ArtistId": 156
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd89f"
+  },
+  "AlbumId": 251,
+  "Title": "The Office, Season 3",
+  "ArtistId": 156
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8a0"
+  },
+  "AlbumId": 252,
+  "Title": "Un-Led-Ed",
+  "ArtistId": 157
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8a1"
+  },
+  "AlbumId": 253,
+  "Title": "Battlestar Galactica (Classic), Season 1",
+  "ArtistId": 158
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8a2"
+  },
+  "AlbumId": 254,
+  "Title": "Aquaman",
+  "ArtistId": 159
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8a3"
+  },
+  "AlbumId": 255,
+  "Title": "Instant Karma: The Amnesty International Campaign to Save Darfur",
+  "ArtistId": 150
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8a4"
+  },
+  "AlbumId": 256,
+  "Title": "Speak of the Devil",
+  "ArtistId": 114
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8a5"
+  },
+  "AlbumId": 257,
+  "Title": "20th Century Masters - The Millennium Collection: The Best of Scorpions",
+  "ArtistId": 179
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8a6"
+  },
+  "AlbumId": 258,
+  "Title": "House of Pain",
+  "ArtistId": 180
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8a7"
+  },
+  "AlbumId": 259,
+  "Title": "Radio Brasil (O Som da Jovem Vanguarda) - Seleccao de Henrique Amaro",
+  "ArtistId": 36
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8a8"
+  },
+  "AlbumId": 260,
+  "Title": "Cake: B-Sides and Rarities",
+  "ArtistId": 196
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8a9"
+  },
+  "AlbumId": 261,
+  "Title": "LOST, Season 4",
+  "ArtistId": 149
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8aa"
+  },
+  "AlbumId": 262,
+  "Title": "Quiet Songs",
+  "ArtistId": 197
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8ab"
+  },
+  "AlbumId": 263,
+  "Title": "Muso Ko",
+  "ArtistId": 198
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8ac"
+  },
+  "AlbumId": 264,
+  "Title": "Realize",
+  "ArtistId": 199
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8ad"
+  },
+  "AlbumId": 265,
+  "Title": "Every Kind of Light",
+  "ArtistId": 200
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8ae"
+  },
+  "AlbumId": 266,
+  "Title": "Duos II",
+  "ArtistId": 201
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8af"
+  },
+  "AlbumId": 267,
+  "Title": "Worlds",
+  "ArtistId": 202
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8b0"
+  },
+  "AlbumId": 268,
+  "Title": "The Best of Beethoven",
+  "ArtistId": 203
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8b1"
+  },
+  "AlbumId": 269,
+  "Title": "Temple of the Dog",
+  "ArtistId": 204
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8b2"
+  },
+  "AlbumId": 270,
+  "Title": "Carry On",
+  "ArtistId": 205
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8b3"
+  },
+  "AlbumId": 271,
+  "Title": "Revelations",
+  "ArtistId": 8
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8b4"
+  },
+  "AlbumId": 272,
+  "Title": "Adorate Deum: Gregorian Chant from the Proper of the Mass",
+  "ArtistId": 206
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8b5"
+  },
+  "AlbumId": 273,
+  "Title": "Allegri: Miserere",
+  "ArtistId": 207
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8b6"
+  },
+  "AlbumId": 274,
+  "Title": "Pachelbel: Canon & Gigue",
+  "ArtistId": 208
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8b7"
+  },
+  "AlbumId": 275,
+  "Title": "Vivaldi: The Four Seasons",
+  "ArtistId": 209
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8b8"
+  },
+  "AlbumId": 276,
+  "Title": "Bach: Violin Concertos",
+  "ArtistId": 210
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8b9"
+  },
+  "AlbumId": 277,
+  "Title": "Bach: Goldberg Variations",
+  "ArtistId": 211
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8ba"
+  },
+  "AlbumId": 278,
+  "Title": "Bach: The Cello Suites",
+  "ArtistId": 212
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8bb"
+  },
+  "AlbumId": 279,
+  "Title": "Handel: The Messiah (Highlights)",
+  "ArtistId": 213
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8bc"
+  },
+  "AlbumId": 280,
+  "Title": "The World of Classical Favourites",
+  "ArtistId": 214
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8bd"
+  },
+  "AlbumId": 281,
+  "Title": "Sir Neville Marriner: A Celebration",
+  "ArtistId": 215
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8be"
+  },
+  "AlbumId": 282,
+  "Title": "Mozart: Wind Concertos",
+  "ArtistId": 216
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8bf"
+  },
+  "AlbumId": 283,
+  "Title": "Haydn: Symphonies 99 - 104",
+  "ArtistId": 217
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8c0"
+  },
+  "AlbumId": 284,
+  "Title": "Beethoven: Symhonies Nos. 5 & 6",
+  "ArtistId": 218
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8c1"
+  },
+  "AlbumId": 285,
+  "Title": "A Soprano Inspired",
+  "ArtistId": 219
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8c2"
+  },
+  "AlbumId": 286,
+  "Title": "Great Opera Choruses",
+  "ArtistId": 220
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8c3"
+  },
+  "AlbumId": 287,
+  "Title": "Wagner: Favourite Overtures",
+  "ArtistId": 221
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8c4"
+  },
+  "AlbumId": 288,
+  "Title": "Fauré: Requiem, Ravel: Pavane & Others",
+  "ArtistId": 222
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8c5"
+  },
+  "AlbumId": 289,
+  "Title": "Tchaikovsky: The Nutcracker",
+  "ArtistId": 223
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8c6"
+  },
+  "AlbumId": 290,
+  "Title": "The Last Night of the Proms",
+  "ArtistId": 224
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8c7"
+  },
+  "AlbumId": 291,
+  "Title": "Puccini: Madama Butterfly - Highlights",
+  "ArtistId": 225
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8c8"
+  },
+  "AlbumId": 292,
+  "Title": "Holst: The Planets, Op. 32 & Vaughan Williams: Fantasies",
+  "ArtistId": 226
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8c9"
+  },
+  "AlbumId": 293,
+  "Title": "Pavarotti's Opera Made Easy",
+  "ArtistId": 227
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8ca"
+  },
+  "AlbumId": 294,
+  "Title": "Great Performances - Barber's Adagio and Other Romantic Favorites for Strings",
+  "ArtistId": 228
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8cb"
+  },
+  "AlbumId": 295,
+  "Title": "Carmina Burana",
+  "ArtistId": 229
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8cc"
+  },
+  "AlbumId": 296,
+  "Title": "A Copland Celebration, Vol. I",
+  "ArtistId": 230
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8cd"
+  },
+  "AlbumId": 297,
+  "Title": "Bach: Toccata & Fugue in D Minor",
+  "ArtistId": 231
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8ce"
+  },
+  "AlbumId": 298,
+  "Title": "Prokofiev: Symphony No.1",
+  "ArtistId": 232
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8cf"
+  },
+  "AlbumId": 299,
+  "Title": "Scheherazade",
+  "ArtistId": 233
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8d0"
+  },
+  "AlbumId": 300,
+  "Title": "Bach: The Brandenburg Concertos",
+  "ArtistId": 234
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8d1"
+  },
+  "AlbumId": 301,
+  "Title": "Chopin: Piano Concertos Nos. 1 & 2",
+  "ArtistId": 235
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8d2"
+  },
+  "AlbumId": 302,
+  "Title": "Mascagni: Cavalleria Rusticana",
+  "ArtistId": 236
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8d3"
+  },
+  "AlbumId": 303,
+  "Title": "Sibelius: Finlandia",
+  "ArtistId": 237
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8d4"
+  },
+  "AlbumId": 304,
+  "Title": "Beethoven Piano Sonatas: Moonlight & Pastorale",
+  "ArtistId": 238
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8d5"
+  },
+  "AlbumId": 305,
+  "Title": "Great Recordings of the Century - Mahler: Das Lied von der Erde",
+  "ArtistId": 240
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8d6"
+  },
+  "AlbumId": 306,
+  "Title": "Elgar: Cello Concerto & Vaughan Williams: Fantasias",
+  "ArtistId": 241
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8d7"
+  },
+  "AlbumId": 307,
+  "Title": "Adams, John: The Chairman Dances",
+  "ArtistId": 242
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8d8"
+  },
+  "AlbumId": 308,
+  "Title": "Tchaikovsky: 1812 Festival Overture, Op.49, Capriccio Italien & Beethoven: Wellington's Victory",
+  "ArtistId": 243
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8d9"
+  },
+  "AlbumId": 309,
+  "Title": "Palestrina: Missa Papae Marcelli & Allegri: Miserere",
+  "ArtistId": 244
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8da"
+  },
+  "AlbumId": 310,
+  "Title": "Prokofiev: Romeo & Juliet",
+  "ArtistId": 245
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8db"
+  },
+  "AlbumId": 311,
+  "Title": "Strauss: Waltzes",
+  "ArtistId": 226
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8dc"
+  },
+  "AlbumId": 312,
+  "Title": "Berlioz: Symphonie Fantastique",
+  "ArtistId": 245
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8dd"
+  },
+  "AlbumId": 313,
+  "Title": "Bizet: Carmen Highlights",
+  "ArtistId": 246
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8de"
+  },
+  "AlbumId": 314,
+  "Title": "English Renaissance",
+  "ArtistId": 247
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8df"
+  },
+  "AlbumId": 315,
+  "Title": "Handel: Music for the Royal Fireworks (Original Version 1749)",
+  "ArtistId": 208
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8e0"
+  },
+  "AlbumId": 316,
+  "Title": "Grieg: Peer Gynt Suites & Sibelius: Pelléas et Mélisande",
+  "ArtistId": 248
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8e1"
+  },
+  "AlbumId": 317,
+  "Title": "Mozart Gala: Famous Arias",
+  "ArtistId": 249
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8e2"
+  },
+  "AlbumId": 318,
+  "Title": "SCRIABIN: Vers la flamme",
+  "ArtistId": 250
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8e3"
+  },
+  "AlbumId": 319,
+  "Title": "Armada: Music from the Courts of England and Spain",
+  "ArtistId": 251
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8e4"
+  },
+  "AlbumId": 320,
+  "Title": "Mozart: Symphonies Nos. 40 & 41",
+  "ArtistId": 248
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8e5"
+  },
+  "AlbumId": 321,
+  "Title": "Back to Black",
+  "ArtistId": 252
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8e6"
+  },
+  "AlbumId": 322,
+  "Title": "Frank",
+  "ArtistId": 252
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8e7"
+  },
+  "AlbumId": 323,
+  "Title": "Carried to Dust (Bonus Track Version)",
+  "ArtistId": 253
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8e8"
+  },
+  "AlbumId": 324,
+  "Title": "Beethoven: Symphony No. 6 'Pastoral' Etc.",
+  "ArtistId": 254
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8e9"
+  },
+  "AlbumId": 325,
+  "Title": "Bartok: Violin & Viola Concertos",
+  "ArtistId": 255
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8ea"
+  },
+  "AlbumId": 326,
+  "Title": "Mendelssohn: A Midsummer Night's Dream",
+  "ArtistId": 256
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8eb"
+  },
+  "AlbumId": 327,
+  "Title": "Bach: Orchestral Suites Nos. 1 - 4",
+  "ArtistId": 257
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8ec"
+  },
+  "AlbumId": 328,
+  "Title": "Charpentier: Divertissements, Airs & Concerts",
+  "ArtistId": 258
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8ed"
+  },
+  "AlbumId": 329,
+  "Title": "South American Getaway",
+  "ArtistId": 259
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8ee"
+  },
+  "AlbumId": 330,
+  "Title": "Górecki: Symphony No. 3",
+  "ArtistId": 260
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8ef"
+  },
+  "AlbumId": 331,
+  "Title": "Purcell: The Fairy Queen",
+  "ArtistId": 261
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8f0"
+  },
+  "AlbumId": 332,
+  "Title": "The Ultimate Relexation Album",
+  "ArtistId": 262
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8f1"
+  },
+  "AlbumId": 333,
+  "Title": "Purcell: Music for the Queen Mary",
+  "ArtistId": 263
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8f2"
+  },
+  "AlbumId": 334,
+  "Title": "Weill: The Seven Deadly Sins",
+  "ArtistId": 264
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8f3"
+  },
+  "AlbumId": 335,
+  "Title": "J.S. Bach: Chaconne, Suite in E Minor, Partita in E Major & Prelude, Fugue and Allegro",
+  "ArtistId": 265
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8f4"
+  },
+  "AlbumId": 336,
+  "Title": "Prokofiev: Symphony No.5 & Stravinksy: Le Sacre Du Printemps",
+  "ArtistId": 248
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8f5"
+  },
+  "AlbumId": 337,
+  "Title": "Szymanowski: Piano Works, Vol. 1",
+  "ArtistId": 266
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8f6"
+  },
+  "AlbumId": 338,
+  "Title": "Nielsen: The Six Symphonies",
+  "ArtistId": 267
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8f7"
+  },
+  "AlbumId": 339,
+  "Title": "Great Recordings of the Century: Paganini's 24 Caprices",
+  "ArtistId": 268
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8f8"
+  },
+  "AlbumId": 340,
+  "Title": "Liszt - 12 Études D'Execution Transcendante",
+  "ArtistId": 269
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8f9"
+  },
+  "AlbumId": 341,
+  "Title": "Great Recordings of the Century - Shubert: Schwanengesang, 4 Lieder",
+  "ArtistId": 270
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8fa"
+  },
+  "AlbumId": 342,
+  "Title": "Locatelli: Concertos for Violin, Strings and Continuo, Vol. 3",
+  "ArtistId": 271
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8fb"
+  },
+  "AlbumId": 343,
+  "Title": "Respighi:Pines of Rome",
+  "ArtistId": 226
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8fc"
+  },
+  "AlbumId": 344,
+  "Title": "Schubert: The Late String Quartets & String Quintet (3 CD's)",
+  "ArtistId": 272
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8fd"
+  },
+  "AlbumId": 345,
+  "Title": "Monteverdi: L'Orfeo",
+  "ArtistId": 273
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8fe"
+  },
+  "AlbumId": 346,
+  "Title": "Mozart: Chamber Music",
+  "ArtistId": 274
+},
+{
+  "_id": {
+    "$oid": "663a42c67717724229edd8ff"
+  },
+  "AlbumId": 347,
+  "Title": "Koyaanisqatsi (Soundtrack from the Motion Picture)",
+  "ArtistId": 275
+}]
